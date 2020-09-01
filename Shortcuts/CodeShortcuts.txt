@@ -1,2 +1,17 @@
 Open terminal inside code => View -> Terminal
 Split screen in 2 tabs    => Ctrl + \ (Alto a destra sotto esc)
+
+Ctrl+X Cut line (empty selection)
+Ctrl+C Copy line (empty selection)
+Alt+ ↓ / ↑ Move line down/up
+Ctrl+Home/End Go to beggining end of file
+Ctrl+/ Toggle line comment (Puoi usarlo con Ctrl+a per commentare tutto il file)
+
+
+Ctrl+space suggestions
+Ctrl+Shift+I Format document (beautify)
+
+-- File management --
+
+Ctrl+N New File
+Ctrl+O Open File
