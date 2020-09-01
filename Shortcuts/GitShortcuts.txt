@@ -12,4 +12,14 @@ git branch                  => lets you see all the branches
 Once you made some changes to the new branch (working on development)
 you are ready to push the changing into the master (production) branch.
 First you have to checkout (move to the master branch)
-git checkout master => move to master branch
+
+git add -A && git commit -m "" => adds and commits all the dirs/files before moving to master
+git checkout master         => move to master branch
+git merge branch_name_to_merge => merge the branch into master
+
+-- Github push clone and pulling --
+
+git clone url dir_name => copy all the dirs and files from url into dir_name
+git pull               => pulling from remote all the update made by
+                          teammates
+git push
