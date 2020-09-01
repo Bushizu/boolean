@@ -1,0 +1,2 @@
+Open terminal inside code => View -> Terminal
+Split screen in 2 tabs    => Ctrl + \ (Alto a destra sotto esc)

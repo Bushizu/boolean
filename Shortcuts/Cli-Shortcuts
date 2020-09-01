@@ -1,0 +1,16 @@
+Ctrl + Freccia D/S     # Jump word by word
+Cmd + Backspace        # Delete word by word
+$ echo string          # Print string to terminal
+$ man command          # Manual of command
+$ cat file             # Output the file content to terminal
+Ctrl + A               # Move to begining of line
+Ctrl + E               # Move to end of line
+Ctrl + U               # Delete the line
+$ ls *.txt             # Elenca tutti i file che finiscono in .txt
+
+
+# Redirect operator:
+$ echo "From fairest creatures we desire increase," > sonnet_1.txt
+
+# Append operator which concatenate the string to the file:
+$ echo "That thereby beauty's Rose might never die," >> sonnet_1.txt

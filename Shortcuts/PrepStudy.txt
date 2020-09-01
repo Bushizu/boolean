@@ -1,0 +1,4 @@
+1) Cli Shortcuts
+2) Xcode Shortcuts
+3) Git + Github
+4) Html/Css Basics
