@@ -9,3 +9,7 @@ git push => push to github all the commited dirs and filles
 
 git checkout -b branch_name => create new branch with name
 git branch                  => lets you see all the branches
+Once you made some changes to the new branch (working on development)
+you are ready to push the changing into the master (production) branch.
+First you have to checkout (move to the master branch)
+git checkout master => move to master branch
