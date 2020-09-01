@@ -1,4 +1,11 @@
+-- Basics of git --
+
 git init => initialize a new .git repository
 git add -A => adds all untracked dir and files
 git commit -m "msg" => commits all tracked dirs and files
 git push => push to github all the commited dirs and filles
+
+-- Branching and Merging --
+
+git checkout -b branch_name => create new branch with name
+git branch                  => lets you see all the branches
