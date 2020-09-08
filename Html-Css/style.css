@@ -5,3 +5,11 @@
 .hotdog .mustard {
   background: yellow;
 }
+
+div {
+  border: 6px solid red;
+  height: 100px;
+  margin: 50px;
+  padding: 50px;
+  width: 400px;
+}
